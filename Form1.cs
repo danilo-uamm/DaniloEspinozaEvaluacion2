@@ -16,6 +16,7 @@ namespace DaniloEspinozaEvaluacion2
 
         private List<Model.Persona> lstPersonas = new List<Model.Persona>();
         int iEdad;
+
         private Persona PersonaNueva = new Persona();
         public Form1()
         {
